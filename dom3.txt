@@ -1,0 +1,9 @@
+code.yoti.com
+com.yoti.mobile.android.live
+ccloud.yoti.com
+hub.yoti.com
+www.yotisign.com
+core.yoti.com
+api.yoti.com
+datacollection.scan.yotiai.algorath.com
+identity.yoti.com
